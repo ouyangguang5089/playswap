@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31f45f66-5895-4d80-b2c8-28f26a006370" name="Default Changelist" comment="Add Edge Chromium, isWindows, isMacOs, isLegacyEdge types.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/helpers/selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/helpers/selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/helpers/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/helpers/types.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dLNKDYd5kcBAhTMTqdyXXVrALj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f45f66-5895-4d80-b2c8-28f26a006370" name="Default Changelist" comment="" />
+      <created>1592200347762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592200347762</updated>
+      <workItem from="1592200349939" duration="4081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Edge Chromium, isWindows, isMacOs, isLegacyEdge types." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Edge Chromium, isWindows, isMacOs, isLegacyEdge types." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1766" y="23" width="1685" height="977" key="CommitChangelistDialog2" timestamp="1592205758836">
+      <screen x="-1920" y="23" width="1920" height="977" />
+    </state>
+    <state x="-1766" y="23" width="1685" height="977" key="CommitChangelistDialog2/-1920.23.1920.977/0.23.1792.1097@-1920.23.1920.977" timestamp="1592205758836" />
+    <state x="596" y="274" width="600" height="514" key="find.popup" timestamp="1592201950633">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="596" y="274" width="600" height="514" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1592201950633" />
+  </component>
+</project>

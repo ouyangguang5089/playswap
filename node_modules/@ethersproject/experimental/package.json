@@ -1,0 +1,32 @@
+{
+  "author": "Richard Moore <me@ricmoo.com>",
+  "dependencies": {
+    "@ensdomains/address-encoder": "^0.1.2",
+    "@ethersproject/web": "^5.0.0",
+    "ethers": "^5.0.0",
+    "scrypt-js": "3.0.1"
+  },
+  "description": "Experimental libraries for ethers. These should not be considered stable.",
+  "ethereum": "donations.ethers.eth",
+  "keywords": [
+    "Ethereum",
+    "ethers"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "module": "./lib.esm/index.js",
+  "name": "@ethersproject/experimental",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethers-io/ethers.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "tarballHash": "0x2cce23aa74c1f32f69d7f92dfe1585e82a97bbba2b8fc64261c5b5089e8ed869",
+  "types": "./lib/index.d.ts",
+  "version": "5.0.1"
+}
